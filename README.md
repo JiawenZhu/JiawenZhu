@@ -9,7 +9,7 @@ I'm the creator of **<a href="https://github.com/JiawenZhu/CareerVivid" target="
 
 ### 🚀 Featured Project
 - **<a href="https://github.com/JiawenZhu/CareerVivid" target="_blank">CareerVivid</a>** - All-in-one AI career growth platform.
-- Live App: <a href="https://careervivid.web.app" target="_blank">careervivid.web.app</a>
+- Live App: <a href="https://careervivid.app" target="_blank">careervivid.app</a>
 
 ### 🛠️ Tech Stack
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) 
