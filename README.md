@@ -1,6 +1,6 @@
 # Hi, I'm Jiawen 👋
 
-I'm the creator of **[CareerVivid](https://github.com/JiawenZhu/CareerVivid)**, an AI-powered platform for personal branding and career growth.
+I'm the creator of **<a href="https://github.com/JiawenZhu/CareerVivid" target="_blank">CareerVivid</a>**, an AI-powered platform for personal branding and career growth.
 
 ### 📊 GitHub Statistics
 <p align="left">
@@ -8,8 +8,8 @@ I'm the creator of **[CareerVivid](https://github.com/JiawenZhu/CareerVivid)**, 
 </p>
 
 ### 🚀 Featured Project
-- **[CareerVivid](https://github.com/JiawenZhu/CareerVivid)** - All-in-one AI career growth platform.
-- Live App: [careervivid.web.app](https://careervivid.web.app)
+- **<a href="https://github.com/JiawenZhu/CareerVivid" target="_blank">CareerVivid</a>** - All-in-one AI career growth platform.
+- Live App: <a href="https://careervivid.web.app" target="_blank">careervivid.web.app</a>
 
 ### 🛠️ Tech Stack
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) 
