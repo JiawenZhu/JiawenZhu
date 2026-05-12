@@ -10,7 +10,7 @@ I'm the creator of **<a href="https://github.com/JiawenZhu/CareerVivid" target="
 ### 📊 GitHub Statistics
 
 <p align="left">
-  <img src="https://metrics.lecoq.io/JiawenZhu?template=classic&config.timezone=America%2FChicago" alt="Jiawen's GitHub Metrics" />
+  <img src="github-metrics.svg" alt="Jiawen's GitHub Metrics" />
 </p>
 
 ### 🚀 Featured Projects
