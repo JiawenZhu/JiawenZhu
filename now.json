@@ -7,14 +7,14 @@
     "homepage": "https://jiawenzhu.github.io/personal-website/",
     "language": "TypeScript",
     "languageColor": "#3178c6",
-    "pushedAt": "2026-10-02T17:51:27Z",
+    "pushedAt": "2026-10-02T18:15:20Z",
     "stars": 0,
     "topics": [],
     "commit": {
-      "message": "Soften project card tilt and point CCAF Quest at its own page",
-      "sha": "187f375",
-      "url": "https://github.com/JiawenZhu/personal-website/commit/187f375f2490a33328e7a761d156e5956d885887",
-      "date": "2026-10-02T17:51:24Z"
+      "message": "Add Bunny Escape as a featured project, coming soon on the App Store",
+      "sha": "0429617",
+      "url": "https://github.com/JiawenZhu/personal-website/commit/0429617750e52cba991f1e138c484ef297bacfd0",
+      "date": "2026-10-02T18:15:17Z"
     },
     "activity": [
       {
@@ -71,7 +71,7 @@
       },
       {
         "date": "2026-10-02",
-        "count": 4
+        "count": 5
       }
     ]
   },
@@ -141,7 +141,7 @@
     }
   ],
   "contributions": {
-    "total": 1098,
+    "total": 1100,
     "currentStreak": 5,
     "longestStreak": 9,
     "busiest": {
@@ -1732,7 +1732,7 @@
         },
         {
           "date": "2026-10-02",
-          "count": 8
+          "count": 10
         }
       ]
     ]
