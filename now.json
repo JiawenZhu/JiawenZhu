@@ -7,14 +7,14 @@
     "homepage": "https://jiawenzhu.github.io/personal-website/",
     "language": "TypeScript",
     "languageColor": "#3178c6",
-    "pushedAt": "2026-10-02T18:15:20Z",
+    "pushedAt": "2026-10-02T19:23:02Z",
     "stars": 0,
     "topics": [],
     "commit": {
-      "message": "Add Bunny Escape as a featured project, coming soon on the App Store",
-      "sha": "0429617",
-      "url": "https://github.com/JiawenZhu/personal-website/commit/0429617750e52cba991f1e138c484ef297bacfd0",
-      "date": "2026-10-02T18:15:17Z"
+      "message": "Note the profile data now refreshes once a day",
+      "sha": "ba66244",
+      "url": "https://github.com/JiawenZhu/personal-website/commit/ba6624440b171b92e9a6b4ccd6cb35ad16a53910",
+      "date": "2026-10-02T19:23:01Z"
     },
     "activity": [
       {
@@ -71,7 +71,7 @@
       },
       {
         "date": "2026-10-02",
-        "count": 5
+        "count": 6
       }
     ]
   },
