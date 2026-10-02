@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" width="1200" height="300" role="img" aria-label="Hi, I'm Jiawen. I build AI products that feel easy to use.">
+<style>
+  text { font-family: ui-rounded, 'SF Pro Rounded', 'Nunito', 'Segoe UI', system-ui, -apple-system, sans-serif; fill: #13203a; }
+  .line { opacity: 0; animation: cycle 12s infinite; }
+  @keyframes cycle { 0% { opacity: 0; transform: translateY(10px); } 3%, 22% { opacity: 1; transform: none; } 25%, 100% { opacity: 0; transform: translateY(-8px); } }
+  .wave { transform-origin: 70% 80%; transform-box: fill-box; animation: wave 2.4s ease-in-out infinite; }
+  @keyframes wave { 0%, 60%, 100% { transform: rotate(0); } 10%, 30% { transform: rotate(16deg); } 20%, 40% { transform: rotate(-8deg); } }
+  .drop { animation: drop 0.9s cubic-bezier(.3,1.4,.5,1) both; }
+  @keyframes drop { from { transform: translateY(-320px); } to { transform: none; } }
+  @media (prefers-reduced-motion: reduce) { .line, .wave, .drop { animation: none; } .line:first-of-type { opacity: 1; } }
+</style>
+
+  <rect x="8" y="8" width="1192" height="292" rx="28" fill="#13203a"/>
+  <rect x="2" y="2" width="1188" height="288" rx="26" fill="#cfe3f7" stroke="#13203a" stroke-width="4"/>
+<rect x="40" y="262" width="1108" height="4" rx="2" fill="#13203a" opacity="0.15"/>
+<text x="56" y="118" font-size="76" font-weight="800" letter-spacing="-2">Hi, I'm Jiawen <tspan class="wave">👋</tspan></text>
+<text class="line" x="58" y="182" font-size="32" font-weight="600" style="animation-delay:0s">I build AI products that feel easy to use.</text>
+<text class="line" x="58" y="182" font-size="32" font-weight="600" style="animation-delay:3s">Right now I'm building 3D-Craft.</text>
+<text class="line" x="58" y="182" font-size="32" font-weight="600" style="animation-delay:6s">I turn messy data into things people trust.</text>
+<text class="line" x="58" y="182" font-size="32" font-weight="600" style="animation-delay:9s">Creator of CareerVivid.</text>
+<text x="58" y="234" font-size="20" fill="#4a5a78" style="fill:#4a5a78">Full-stack engineer. Creator of CareerVivid.</text>
+<g class="drop" style="animation-delay:0.20s"><rect x="791.9102467186749" y="225" width="57" height="37" rx="9" fill="#2ea65a" stroke="#13203a" stroke-width="3" transform="rotate(-4.5 820.4102467186749 243.5)"/></g>
+<g class="drop" style="animation-delay:0.27s"><rect x="791.9102467186749" y="183" width="52" height="40" rx="9" fill="#e8453c" stroke="#13203a" stroke-width="3" transform="rotate(-4.5 817.9102467186749 203)"/></g>
+<g class="drop" style="animation-delay:0.34s"><rect x="791.9102467186749" y="151" width="57" height="30" rx="9" fill="#f5b82e" stroke="#13203a" stroke-width="3" transform="rotate(4.7 820.4102467186749 166)"/></g>
+<g class="drop" style="animation-delay:0.41s"><circle cx="818.4102467186749" cy="131" r="20" fill="#2f6fe0" stroke="#13203a" stroke-width="3"/></g>
+<g class="drop" style="animation-delay:0.48s"><rect x="856.2193384598941" y="227" width="53" height="35" rx="9" fill="#2f6fe0" stroke="#13203a" stroke-width="3" transform="rotate(3.5 882.7193384598941 244.5)"/></g>
+<g class="drop" style="animation-delay:0.55s"><rect x="856.2193384598941" y="191" width="53" height="34" rx="9" fill="#2ea65a" stroke="#13203a" stroke-width="3" transform="rotate(-4.1 882.7193384598941 208)"/></g>
+<g class="drop" style="animation-delay:0.62s"><rect x="856.2193384598941" y="151" width="56" height="38" rx="9" fill="#e8453c" stroke="#13203a" stroke-width="3" transform="rotate(-1.4 884.2193384598941 170)"/></g>
+<g class="drop" style="animation-delay:0.69s"><rect x="856.2193384598941" y="117" width="57" height="32" rx="9" fill="#f5b82e" stroke="#13203a" stroke-width="3" transform="rotate(-3.8 884.7193384598941 133)"/></g>
+<g class="drop" style="animation-delay:0.76s"><rect x="913.65058799088" y="231" width="54" height="31" rx="9" fill="#f5b82e" stroke="#13203a" stroke-width="3" transform="rotate(2.7 940.65058799088 246.5)"/></g>
+<g class="drop" style="animation-delay:0.83s"><rect x="913.65058799088" y="198" width="54" height="31" rx="9" fill="#2f6fe0" stroke="#13203a" stroke-width="3" transform="rotate(4.3 940.65058799088 213.5)"/></g>
+<g class="drop" style="animation-delay:0.90s"><rect x="913.65058799088" y="163" width="54" height="33" rx="9" fill="#2ea65a" stroke="#13203a" stroke-width="3" transform="rotate(-1.5 940.65058799088 179.5)"/></g>
+<g class="drop" style="animation-delay:0.97s"><rect x="974.0997232273221" y="229" width="51" height="33" rx="9" fill="#e8453c" stroke="#13203a" stroke-width="3" transform="rotate(3.7 999.5997232273221 245.5)"/></g>
+<g class="drop" style="animation-delay:1.04s"><rect x="974.0997232273221" y="190" width="53" height="37" rx="9" fill="#f5b82e" stroke="#13203a" stroke-width="3" transform="rotate(5.0 1000.5997232273221 208.5)"/></g>
+<g class="drop" style="animation-delay:1.11s"><rect x="974.0997232273221" y="153" width="51" height="35" rx="9" fill="#2f6fe0" stroke="#13203a" stroke-width="3" transform="rotate(-2.5 999.5997232273221 170.5)"/></g>
+<g class="drop" style="animation-delay:1.18s"><rect x="974.0997232273221" y="110" width="54" height="41" rx="9" fill="#2ea65a" stroke="#13203a" stroke-width="3" transform="rotate(-0.1 1001.0997232273221 130.5)"/></g>
+<g class="drop" style="animation-delay:1.25s"><rect x="974.0997232273221" y="76" width="53" height="32" rx="9" fill="#e8453c" stroke="#13203a" stroke-width="3" transform="rotate(-3.2 1000.5997232273221 92)"/></g>
+<g class="drop" style="animation-delay:1.32s"><rect x="1035.533131789416" y="231" width="54" height="31" rx="9" fill="#2ea65a" stroke="#13203a" stroke-width="3" transform="rotate(2.4 1062.533131789416 246.5)"/></g>
+<g class="drop" style="animation-delay:1.39s"><rect x="1035.533131789416" y="189" width="52" height="40" rx="9" fill="#e8453c" stroke="#13203a" stroke-width="3" transform="rotate(-0.9 1061.533131789416 209)"/></g>
+<g class="drop" style="animation-delay:1.46s"><rect x="1035.533131789416" y="150" width="56" height="37" rx="9" fill="#f5b82e" stroke="#13203a" stroke-width="3" transform="rotate(0.0 1063.533131789416 168.5)"/></g>
+<g class="drop" style="animation-delay:1.53s"><rect x="1035.533131789416" y="113" width="56" height="35" rx="9" fill="#2f6fe0" stroke="#13203a" stroke-width="3" transform="rotate(4.6 1063.533131789416 130.5)"/></g>
+<g class="drop" style="animation-delay:1.60s"><rect x="1097.0786559339613" y="229" width="57" height="33" rx="9" fill="#2f6fe0" stroke="#13203a" stroke-width="3" transform="rotate(2.1 1125.5786559339613 245.5)"/></g>
+<g class="drop" style="animation-delay:1.67s"><circle cx="1122.0786559339613" cy="211" r="18" fill="#2ea65a" stroke="#13203a" stroke-width="3"/></g>
+</svg>
