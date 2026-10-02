@@ -49,8 +49,8 @@ I'm a full-stack engineer who turns complex data into clean, trustworthy product
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://careervivid.app/learning/"><img src="https://raw.githubusercontent.com/JiawenZhu/personal-website/master/public/project-screenshots/ccaf-quest.webp" alt="CCAF Quest 3D city"></a>
-      <h3><a href="https://careervivid.app/learning/">CCAF Quest</a></h3>
+      <a href="https://careervivid.app/learning/ccaf-quest"><img src="https://raw.githubusercontent.com/JiawenZhu/personal-website/master/public/project-screenshots/ccaf-quest.webp" alt="CCAF Quest 3D city"></a>
+      <h3><a href="https://careervivid.app/learning/ccaf-quest">CCAF Quest</a></h3>
       A walkable 3D city that turns Claude Certified Architect exam prep into 45 missions. Walk into a building, take the briefing, earn XP.
       <br><br><code>Three.js</code> <code>React</code> <code>Game design</code>
     </td>
