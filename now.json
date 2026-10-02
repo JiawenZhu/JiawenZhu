@@ -7,14 +7,14 @@
     "homepage": "https://jiawenzhu.github.io/personal-website/",
     "language": "TypeScript",
     "languageColor": "#3178c6",
-    "pushedAt": "2026-10-02T17:38:16Z",
+    "pushedAt": "2026-10-02T17:43:43Z",
     "stars": 0,
     "topics": [],
     "commit": {
-      "message": "Rebuild portfolio around toy blocks and a live \"building right now\" p…",
-      "sha": "b8bb554",
-      "url": "https://github.com/JiawenZhu/personal-website/commit/b8bb5545d5dc40d36eed150cc36829747def50cf",
-      "date": "2026-10-02T17:36:43Z"
+      "message": "Feature 3D Craft with App Store and web studio links",
+      "sha": "b4ccd88",
+      "url": "https://github.com/JiawenZhu/personal-website/commit/b4ccd88c7e188af12f5561e7b2c39fc7a81b5f09",
+      "date": "2026-10-02T17:43:40Z"
     },
     "activity": [
       {
@@ -71,7 +71,7 @@
       },
       {
         "date": "2026-10-02",
-        "count": 1
+        "count": 3
       }
     ]
   },
@@ -141,7 +141,7 @@
     }
   ],
   "contributions": {
-    "total": 1093,
+    "total": 1096,
     "currentStreak": 5,
     "longestStreak": 9,
     "busiest": {
@@ -1732,7 +1732,7 @@
         },
         {
           "date": "2026-10-02",
-          "count": 3
+          "count": 6
         }
       ]
     ]

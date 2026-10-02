@@ -12,7 +12,7 @@ I'm a full-stack engineer who turns complex data into clean, trustworthy product
 ## 🧱 What I'm building right now
 
 <!-- now-building:start -->
-<a href="https://jiawenzhu.github.io/personal-website/"><img src="assets/now-building.svg?v=d89faaea" alt="Building right now: personal-website. Personal portfolio website" width="100%"></a>
+<a href="https://jiawenzhu.github.io/personal-website/"><img src="assets/now-building.svg?v=a4b50bf3" alt="Building right now: personal-website. Personal portfolio website" width="100%"></a>
 
 <details>
 <summary><b>What else I've touched lately</b></summary>
