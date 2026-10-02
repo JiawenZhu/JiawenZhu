@@ -18,12 +18,12 @@
 <text x="82" y="63" font-size="21" font-weight="700" class="soft">Building right now</text>
 <text x="52" y="128" font-size="58" font-weight="800" letter-spacing="-1.5">personal-website<tspan class="cursor" fill="#2f6fe0" style="fill:#2f6fe0">_</tspan></text>
 <text x="54" y="170" font-size="23">Personal portfolio website</text>
-<text x="54" y="206" font-size="18" class="soft">Latest commit: “Feature 3D Craft with App Store and web studio links”</text>
+<text x="54" y="206" font-size="18" class="soft">Latest commit: “Soften project card tilt and point CCAF Quest at its ow…”</text>
 <circle cx="62" cy="266" r="8" fill="#3178c6" stroke="#13203a" stroke-width="2"/>
 <text x="78" y="272" font-size="18" font-weight="700">TypeScript</text>
 <text x="260" y="272" font-size="18" class="soft">Last push Oct 2, 2026</text>
 <line x1="830" y1="40" x2="830" y2="262" stroke="#13203a" stroke-width="2" stroke-dasharray="2 8" stroke-linecap="round" opacity=".35"/>
-<text x="862" y="63" font-size="18" font-weight="700" class="soft">3 commits in the last 14 days</text>
+<text x="862" y="63" font-size="18" font-weight="700" class="soft">4 commits in the last 14 days</text>
 <line x1="856" y1="252" x2="1150" y2="252" stroke="#13203a" stroke-width="3" stroke-linecap="round"/>
 <rect class="grow" style="animation-delay:0.30s" x="862" y="244" width="15" height="6" rx="4" fill="#e6f0fb" stroke="#13203a" stroke-width="2.5"><title>2026-09-19: 0 commits</title></rect>
 <rect class="grow" style="animation-delay:0.34s" x="882" y="244" width="15" height="6" rx="4" fill="#e6f0fb" stroke="#13203a" stroke-width="2.5"><title>2026-09-20: 0 commits</title></rect>
@@ -38,5 +38,5 @@
 <rect class="grow" style="animation-delay:0.70s" x="1062" y="244" width="15" height="6" rx="4" fill="#e6f0fb" stroke="#13203a" stroke-width="2.5"><title>2026-09-29: 0 commits</title></rect>
 <rect class="grow" style="animation-delay:0.74s" x="1082" y="244" width="15" height="6" rx="4" fill="#e6f0fb" stroke="#13203a" stroke-width="2.5"><title>2026-09-30: 0 commits</title></rect>
 <rect class="grow" style="animation-delay:0.78s" x="1102" y="244" width="15" height="6" rx="4" fill="#e6f0fb" stroke="#13203a" stroke-width="2.5"><title>2026-10-01: 0 commits</title></rect>
-<rect class="grow" style="animation-delay:0.82s" x="1122" y="116" width="15" height="134" rx="4" fill="#2f6fe0" stroke="#13203a" stroke-width="2.5"><title>2026-10-02: 3 commits</title></rect>
+<rect class="grow" style="animation-delay:0.82s" x="1122" y="116" width="15" height="134" rx="4" fill="#2f6fe0" stroke="#13203a" stroke-width="2.5"><title>2026-10-02: 4 commits</title></rect>
 </svg>

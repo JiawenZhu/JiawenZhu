@@ -7,14 +7,14 @@
     "homepage": "https://jiawenzhu.github.io/personal-website/",
     "language": "TypeScript",
     "languageColor": "#3178c6",
-    "pushedAt": "2026-10-02T17:43:43Z",
+    "pushedAt": "2026-10-02T17:51:27Z",
     "stars": 0,
     "topics": [],
     "commit": {
-      "message": "Feature 3D Craft with App Store and web studio links",
-      "sha": "b4ccd88",
-      "url": "https://github.com/JiawenZhu/personal-website/commit/b4ccd88c7e188af12f5561e7b2c39fc7a81b5f09",
-      "date": "2026-10-02T17:43:40Z"
+      "message": "Soften project card tilt and point CCAF Quest at its own page",
+      "sha": "187f375",
+      "url": "https://github.com/JiawenZhu/personal-website/commit/187f375f2490a33328e7a761d156e5956d885887",
+      "date": "2026-10-02T17:51:24Z"
     },
     "activity": [
       {
@@ -71,7 +71,7 @@
       },
       {
         "date": "2026-10-02",
-        "count": 3
+        "count": 4
       }
     ]
   },
@@ -141,7 +141,7 @@
     }
   ],
   "contributions": {
-    "total": 1096,
+    "total": 1098,
     "currentStreak": 5,
     "longestStreak": 9,
     "busiest": {
@@ -1732,7 +1732,7 @@
         },
         {
           "date": "2026-10-02",
-          "count": 6
+          "count": 8
         }
       ]
     ]
