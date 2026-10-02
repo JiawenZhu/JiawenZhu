@@ -36,6 +36,18 @@ I'm a full-stack engineer who turns complex data into clean, trustworthy product
 
 <table>
   <tr>
+    <td colspan="2" valign="top">
+      <a href="https://3d-craft.web.app"><img src="https://raw.githubusercontent.com/JiawenZhu/personal-website/master/public/project-screenshots/3d-craft.webp" alt="3D Craft on iPhone: a lantern cat explorer, a blue baby dragon, and a finished dragon model in the 3D studio"></a>
+      <h3><a href="https://3d-craft.web.app">3D Craft</a> 🆕</h3>
+      Turn an idea or a reference image into concept art, then a 3D model you can light, animate, and drop into a game. On iPhone, iPad, and the web.
+      <br><br>
+      <a href="https://apps.apple.com/us/app/3d-craft-ai-3d-model-maker/id6811466883"><img src="https://img.shields.io/badge/App_Store-13203a?style=for-the-badge&logo=appstore&logoColor=white" alt="Download on the App Store"></a>
+      <a href="https://3d-craft.web.app"><img src="https://img.shields.io/badge/Web_studio-2ea65a?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Open the web studio"></a>
+      <a href="https://github.com/JiawenZhu/3D-Craft"><img src="https://img.shields.io/badge/Source-2f6fe0?style=for-the-badge&logo=github&logoColor=white" alt="Source code"></a>
+      <br><br><code>SwiftUI</code> <code>React</code> <code>Firebase</code> <code>fal.ai</code> <code>3D generation</code>
+    </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <a href="https://careervivid.app/learning/"><img src="https://raw.githubusercontent.com/JiawenZhu/personal-website/master/public/project-screenshots/ccaf-quest.webp" alt="CCAF Quest 3D city"></a>
       <h3><a href="https://careervivid.app/learning/">CCAF Quest</a></h3>
