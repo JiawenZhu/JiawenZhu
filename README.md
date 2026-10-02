@@ -12,13 +12,13 @@ I'm a full-stack engineer who turns complex data into clean, trustworthy product
 ## 🧱 What I'm building right now
 
 <!-- now-building:start -->
-<a href="https://github.com/JiawenZhu/3D-Craft"><img src="assets/now-building.svg?v=898d5603" alt="Building right now: 3D-Craft. Local-first Rodin-style 3D generation workspace — Hunyuan3D-2.1, TRELLIS.2 and Rodin via fal.ai" width="100%"></a>
+<a href="https://jiawenzhu.github.io/personal-website/"><img src="assets/now-building.svg?v=d89faaea" alt="Building right now: personal-website. Personal portfolio website" width="100%"></a>
 
 <details>
 <summary><b>What else I've touched lately</b></summary>
 
+- **[3D-Craft](https://github.com/JiawenZhu/3D-Craft)** – Local-first Rodin-style 3D generation workspace — Hunyuan3D-2.1, TRELLIS.2 and Rodin via… <sub>(Oct 1, 2026)</sub>
 - **[restage](https://github.com/JiawenZhu/restage)** – An agent that edits images toward a stated outcome — UGC first, room staging second. Desi… <sub>(Aug 30, 2026)</sub>
-- **[personal-website](https://github.com/JiawenZhu/personal-website)** – Personal portfolio website <sub>(Jul 28, 2026)</sub>
 - **[careervivid-ios](https://github.com/JiawenZhu/careervivid-ios)** – iOS app for Vivid (mock interviews, skill tree, and real company questions). <sub>(Jul 21, 2026)</sub>
 - **[apex-fan-mongodb](https://github.com/JiawenZhu/apex-fan-mongodb)** – World Cup 2026 fan concierge for the Google Cloud Rapid Agent Hackathon MongoDB track <sub>(Jun 1, 2026)</sub>
 - **[ledgerflow-fivetran](https://github.com/JiawenZhu/ledgerflow-fivetran)** – Fivetran revenue pipeline risk agent for the Google Cloud Rapid Agent Hackathon <sub>(May 25, 2026)</sub>

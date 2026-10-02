@@ -15,7 +15,7 @@
 <rect x="40" y="262" width="1108" height="4" rx="2" fill="#13203a" opacity="0.15"/>
 <text x="56" y="118" font-size="76" font-weight="800" letter-spacing="-2">Hi, I'm Jiawen <tspan class="wave">👋</tspan></text>
 <text class="line" x="58" y="182" font-size="32" font-weight="600" style="animation-delay:0s">I build AI products that feel easy to use.</text>
-<text class="line" x="58" y="182" font-size="32" font-weight="600" style="animation-delay:3s">Right now I'm building 3D-Craft.</text>
+<text class="line" x="58" y="182" font-size="32" font-weight="600" style="animation-delay:3s">Right now I'm building personal-website.</text>
 <text class="line" x="58" y="182" font-size="32" font-weight="600" style="animation-delay:6s">I turn messy data into things people trust.</text>
 <text class="line" x="58" y="182" font-size="32" font-weight="600" style="animation-delay:9s">Creator of CareerVivid.</text>
 <text x="58" y="234" font-size="20" fill="#4a5a78" style="fill:#4a5a78">Full-stack engineer. Creator of CareerVivid.</text>

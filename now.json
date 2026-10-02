@@ -1,25 +1,25 @@
 {
   "user": "JiawenZhu",
   "latest": {
-    "name": "3D-Craft",
-    "url": "https://github.com/JiawenZhu/3D-Craft",
-    "description": "Local-first Rodin-style 3D generation workspace — Hunyuan3D-2.1, TRELLIS.2 and Rodin via fal.ai",
-    "homepage": null,
-    "language": "Python",
-    "languageColor": "#3572A5",
-    "pushedAt": "2026-10-02T02:16:11Z",
-    "stars": 1,
+    "name": "personal-website",
+    "url": "https://github.com/JiawenZhu/personal-website",
+    "description": "Personal portfolio website",
+    "homepage": "https://jiawenzhu.github.io/personal-website/",
+    "language": "TypeScript",
+    "languageColor": "#3178c6",
+    "pushedAt": "2026-10-02T17:38:16Z",
+    "stars": 0,
     "topics": [],
     "commit": {
-      "message": "Name 3D object creation walkthrough",
-      "sha": "41b061b",
-      "url": "https://github.com/JiawenZhu/3D-Craft/commit/41b061b8300fa12d03cb2ff8e40fa0c1bea65e12",
-      "date": "2026-10-02T02:16:11Z"
+      "message": "Rebuild portfolio around toy blocks and a live \"building right now\" p…",
+      "sha": "b8bb554",
+      "url": "https://github.com/JiawenZhu/personal-website/commit/b8bb5545d5dc40d36eed150cc36829747def50cf",
+      "date": "2026-10-02T17:36:43Z"
     },
     "activity": [
       {
         "date": "2026-09-19",
-        "count": 12
+        "count": 0
       },
       {
         "date": "2026-09-20",
@@ -27,27 +27,27 @@
       },
       {
         "date": "2026-09-21",
-        "count": 21
+        "count": 0
       },
       {
         "date": "2026-09-22",
-        "count": 23
+        "count": 0
       },
       {
         "date": "2026-09-23",
-        "count": 3
+        "count": 0
       },
       {
         "date": "2026-09-24",
-        "count": 2
+        "count": 0
       },
       {
         "date": "2026-09-25",
-        "count": 7
+        "count": 0
       },
       {
         "date": "2026-09-26",
-        "count": 3
+        "count": 0
       },
       {
         "date": "2026-09-27",
@@ -55,7 +55,7 @@
       },
       {
         "date": "2026-09-28",
-        "count": 1
+        "count": 0
       },
       {
         "date": "2026-09-29",
@@ -67,15 +67,26 @@
       },
       {
         "date": "2026-10-01",
-        "count": 11
+        "count": 0
       },
       {
         "date": "2026-10-02",
-        "count": 0
+        "count": 1
       }
     ]
   },
   "recent": [
+    {
+      "name": "3D-Craft",
+      "url": "https://github.com/JiawenZhu/3D-Craft",
+      "description": "Local-first Rodin-style 3D generation workspace — Hunyuan3D-2.1, TRELLIS.2 and Rodin via fal.ai",
+      "homepage": null,
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "pushedAt": "2026-10-02T02:16:11Z",
+      "stars": 1,
+      "topics": []
+    },
     {
       "name": "restage",
       "url": "https://github.com/JiawenZhu/restage",
@@ -85,17 +96,6 @@
       "languageColor": "#3178c6",
       "pushedAt": "2026-08-31T00:58:36Z",
       "stars": 1,
-      "topics": []
-    },
-    {
-      "name": "personal-website",
-      "url": "https://github.com/JiawenZhu/personal-website",
-      "description": "Personal portfolio website",
-      "homepage": "https://jiawenzhu.github.io/personal-website/",
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "pushedAt": "2026-07-28T21:35:42Z",
-      "stars": 0,
       "topics": []
     },
     {
@@ -141,7 +141,7 @@
     }
   ],
   "contributions": {
-    "total": 1091,
+    "total": 1093,
     "currentStreak": 5,
     "longestStreak": 9,
     "busiest": {
@@ -1732,7 +1732,7 @@
         },
         {
           "date": "2026-10-02",
-          "count": 1
+          "count": 3
         }
       ]
     ]
