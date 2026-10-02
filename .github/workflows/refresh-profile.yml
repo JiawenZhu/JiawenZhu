@@ -16,7 +16,7 @@ permissions:
 
 concurrency:
   group: refresh-profile
-  cancel-in-progress: false
+  cancel-in-progress: true
 
 jobs:
   refresh:
@@ -42,5 +42,7 @@ jobs:
             echo "Nothing changed."
           else
             git commit -m "Refresh now-building card"
+            # Another run may have pushed while this one was drawing.
+            git pull --rebase -X theirs origin main
             git push
           fi
