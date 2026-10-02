@@ -26,7 +26,7 @@ I'm a full-stack engineer who turns complex data into clean, trustworthy product
 </details>
 <!-- now-building:end -->
 
-<sub>🤖 This section updates itself. Every few hours a GitHub Action checks which public repo I pushed to last and redraws the card.</sub>
+<sub>🤖 This section updates itself. Once a day a GitHub Action checks which public repo I pushed to last and redraws the card.</sub>
 
 ## 🏙️ My commit city
 
