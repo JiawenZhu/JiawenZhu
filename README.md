@@ -48,6 +48,17 @@ I'm a full-stack engineer who turns complex data into clean, trustworthy product
     </td>
   </tr>
   <tr>
+    <td colspan="2" valign="top">
+      <a href="https://bunny-escape-2026.web.app"><img src="https://raw.githubusercontent.com/JiawenZhu/personal-website/master/public/project-screenshots/bunny-escape.webp" alt="Bunny Escape: Bubu and Doudou sneaking through a moonlit forest with a lantern"></a>
+      <h3><a href="https://bunny-escape-2026.web.app">Bunny Escape</a> 🐰</h3>
+      A rescue-and-run game for iPhone and iPad. Sneak through 8 monster houses, free your partner from a cage, then outrun the monster down winding roads full of boulders and lava rivers. Pure Three.js with characters made in 3D Craft and a soundtrack synthesized live with Web Audio.
+      <br><br>
+      <a href="https://bunny-escape-2026.web.app"><img src="https://img.shields.io/badge/Game_site-f5b82e?style=for-the-badge&logo=googlechrome&logoColor=13203a" alt="Visit the game site"></a>
+      <img src="https://img.shields.io/badge/App_Store-coming_soon-4a5a78?style=for-the-badge&logo=appstore&logoColor=white" alt="Coming soon on the App Store">
+      <br><br><code>Three.js</code> <code>Capacitor</code> <code>Web Audio</code> <code>iOS</code>
+    </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <a href="https://careervivid.app/learning/ccaf-quest"><img src="https://raw.githubusercontent.com/JiawenZhu/personal-website/master/public/project-screenshots/ccaf-quest.webp" alt="CCAF Quest 3D city"></a>
       <h3><a href="https://careervivid.app/learning/ccaf-quest">CCAF Quest</a></h3>
