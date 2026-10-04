@@ -25,18 +25,18 @@
 <line x1="830" y1="40" x2="830" y2="262" stroke="#13203a" stroke-width="2" stroke-dasharray="2 8" stroke-linecap="round" opacity=".35"/>
 <text x="862" y="63" font-size="18" font-weight="700" class="soft">6 commits in the last 14 days</text>
 <line x1="856" y1="252" x2="1150" y2="252" stroke="#13203a" stroke-width="3" stroke-linecap="round"/>
-<rect class="grow" style="animation-delay:0.30s" x="862" y="244" width="15" height="6" rx="4" fill="#e6f0fb" stroke="#13203a" stroke-width="2.5"><title>2026-09-20: 0 commits</title></rect>
-<rect class="grow" style="animation-delay:0.34s" x="882" y="244" width="15" height="6" rx="4" fill="#e6f0fb" stroke="#13203a" stroke-width="2.5"><title>2026-09-21: 0 commits</title></rect>
-<rect class="grow" style="animation-delay:0.38s" x="902" y="244" width="15" height="6" rx="4" fill="#e6f0fb" stroke="#13203a" stroke-width="2.5"><title>2026-09-22: 0 commits</title></rect>
-<rect class="grow" style="animation-delay:0.42s" x="922" y="244" width="15" height="6" rx="4" fill="#e6f0fb" stroke="#13203a" stroke-width="2.5"><title>2026-09-23: 0 commits</title></rect>
-<rect class="grow" style="animation-delay:0.46s" x="942" y="244" width="15" height="6" rx="4" fill="#e6f0fb" stroke="#13203a" stroke-width="2.5"><title>2026-09-24: 0 commits</title></rect>
-<rect class="grow" style="animation-delay:0.50s" x="962" y="244" width="15" height="6" rx="4" fill="#e6f0fb" stroke="#13203a" stroke-width="2.5"><title>2026-09-25: 0 commits</title></rect>
-<rect class="grow" style="animation-delay:0.54s" x="982" y="244" width="15" height="6" rx="4" fill="#e6f0fb" stroke="#13203a" stroke-width="2.5"><title>2026-09-26: 0 commits</title></rect>
-<rect class="grow" style="animation-delay:0.58s" x="1002" y="244" width="15" height="6" rx="4" fill="#e6f0fb" stroke="#13203a" stroke-width="2.5"><title>2026-09-27: 0 commits</title></rect>
-<rect class="grow" style="animation-delay:0.62s" x="1022" y="244" width="15" height="6" rx="4" fill="#e6f0fb" stroke="#13203a" stroke-width="2.5"><title>2026-09-28: 0 commits</title></rect>
-<rect class="grow" style="animation-delay:0.66s" x="1042" y="244" width="15" height="6" rx="4" fill="#e6f0fb" stroke="#13203a" stroke-width="2.5"><title>2026-09-29: 0 commits</title></rect>
-<rect class="grow" style="animation-delay:0.70s" x="1062" y="244" width="15" height="6" rx="4" fill="#e6f0fb" stroke="#13203a" stroke-width="2.5"><title>2026-09-30: 0 commits</title></rect>
-<rect class="grow" style="animation-delay:0.74s" x="1082" y="244" width="15" height="6" rx="4" fill="#e6f0fb" stroke="#13203a" stroke-width="2.5"><title>2026-10-01: 0 commits</title></rect>
-<rect class="grow" style="animation-delay:0.78s" x="1102" y="116" width="15" height="134" rx="4" fill="#2ea65a" stroke="#13203a" stroke-width="2.5"><title>2026-10-02: 6 commits</title></rect>
-<rect class="grow" style="animation-delay:0.82s" x="1122" y="244" width="15" height="6" rx="4" fill="#e6f0fb" stroke="#13203a" stroke-width="2.5"><title>2026-10-03: 0 commits</title></rect>
+<rect class="grow" style="animation-delay:0.30s" x="862" y="244" width="15" height="6" rx="4" fill="#e6f0fb" stroke="#13203a" stroke-width="2.5"><title>2026-09-21: 0 commits</title></rect>
+<rect class="grow" style="animation-delay:0.34s" x="882" y="244" width="15" height="6" rx="4" fill="#e6f0fb" stroke="#13203a" stroke-width="2.5"><title>2026-09-22: 0 commits</title></rect>
+<rect class="grow" style="animation-delay:0.38s" x="902" y="244" width="15" height="6" rx="4" fill="#e6f0fb" stroke="#13203a" stroke-width="2.5"><title>2026-09-23: 0 commits</title></rect>
+<rect class="grow" style="animation-delay:0.42s" x="922" y="244" width="15" height="6" rx="4" fill="#e6f0fb" stroke="#13203a" stroke-width="2.5"><title>2026-09-24: 0 commits</title></rect>
+<rect class="grow" style="animation-delay:0.46s" x="942" y="244" width="15" height="6" rx="4" fill="#e6f0fb" stroke="#13203a" stroke-width="2.5"><title>2026-09-25: 0 commits</title></rect>
+<rect class="grow" style="animation-delay:0.50s" x="962" y="244" width="15" height="6" rx="4" fill="#e6f0fb" stroke="#13203a" stroke-width="2.5"><title>2026-09-26: 0 commits</title></rect>
+<rect class="grow" style="animation-delay:0.54s" x="982" y="244" width="15" height="6" rx="4" fill="#e6f0fb" stroke="#13203a" stroke-width="2.5"><title>2026-09-27: 0 commits</title></rect>
+<rect class="grow" style="animation-delay:0.58s" x="1002" y="244" width="15" height="6" rx="4" fill="#e6f0fb" stroke="#13203a" stroke-width="2.5"><title>2026-09-28: 0 commits</title></rect>
+<rect class="grow" style="animation-delay:0.62s" x="1022" y="244" width="15" height="6" rx="4" fill="#e6f0fb" stroke="#13203a" stroke-width="2.5"><title>2026-09-29: 0 commits</title></rect>
+<rect class="grow" style="animation-delay:0.66s" x="1042" y="244" width="15" height="6" rx="4" fill="#e6f0fb" stroke="#13203a" stroke-width="2.5"><title>2026-09-30: 0 commits</title></rect>
+<rect class="grow" style="animation-delay:0.70s" x="1062" y="244" width="15" height="6" rx="4" fill="#e6f0fb" stroke="#13203a" stroke-width="2.5"><title>2026-10-01: 0 commits</title></rect>
+<rect class="grow" style="animation-delay:0.74s" x="1082" y="116" width="15" height="134" rx="4" fill="#e8453c" stroke="#13203a" stroke-width="2.5"><title>2026-10-02: 6 commits</title></rect>
+<rect class="grow" style="animation-delay:0.78s" x="1102" y="244" width="15" height="6" rx="4" fill="#e6f0fb" stroke="#13203a" stroke-width="2.5"><title>2026-10-03: 0 commits</title></rect>
+<rect class="grow" style="animation-delay:0.82s" x="1122" y="244" width="15" height="6" rx="4" fill="#e6f0fb" stroke="#13203a" stroke-width="2.5"><title>2026-10-04: 0 commits</title></rect>
 </svg>
