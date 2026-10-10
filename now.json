@@ -1,26 +1,22 @@
 {
   "user": "JiawenZhu",
   "latest": {
-    "name": "personal-website",
-    "url": "https://github.com/JiawenZhu/personal-website",
-    "description": "Personal portfolio website",
-    "homepage": "https://jiawenzhu.github.io/personal-website/",
-    "language": "TypeScript",
-    "languageColor": "#3178c6",
-    "pushedAt": "2026-10-02T19:23:03Z",
+    "name": "Space-Voyage",
+    "url": "https://github.com/JiawenZhu/Space-Voyage",
+    "description": "Space Voyage",
+    "homepage": null,
+    "language": "HTML",
+    "languageColor": "#e34c26",
+    "pushedAt": "2026-10-09T21:07:07Z",
     "stars": 0,
     "topics": [],
     "commit": {
-      "message": "Note the profile data now refreshes once a day",
-      "sha": "ba66244",
-      "url": "https://github.com/JiawenZhu/personal-website/commit/ba6624440b171b92e9a6b4ccd6cb35ad16a53910",
-      "date": "2026-10-02T19:23:01Z"
+      "message": "feat: initialize Planet Jumping project structure",
+      "sha": "f311d90",
+      "url": "https://github.com/JiawenZhu/Space-Voyage/commit/f311d90683d727240e93e06de5cbf65cce5f6954",
+      "date": "2026-10-09T21:07:06Z"
     },
     "activity": [
-      {
-        "date": "2026-09-26",
-        "count": 0
-      },
       {
         "date": "2026-09-27",
         "count": 0
@@ -43,7 +39,7 @@
       },
       {
         "date": "2026-10-02",
-        "count": 6
+        "count": 0
       },
       {
         "date": "2026-10-03",
@@ -71,11 +67,26 @@
       },
       {
         "date": "2026-10-09",
+        "count": 2
+      },
+      {
+        "date": "2026-10-10",
         "count": 0
       }
     ]
   },
   "recent": [
+    {
+      "name": "personal-website",
+      "url": "https://github.com/JiawenZhu/personal-website",
+      "description": "Personal portfolio website",
+      "homepage": "https://jiawenzhu.github.io/personal-website/",
+      "language": "TypeScript",
+      "languageColor": "#3178c6",
+      "pushedAt": "2026-10-02T19:23:03Z",
+      "stars": 0,
+      "topics": []
+    },
     {
       "name": "3D-Craft",
       "url": "https://github.com/JiawenZhu/3D-Craft",
@@ -123,26 +134,11 @@
         "hackathon",
         "mongodb"
       ]
-    },
-    {
-      "name": "ledgerflow-fivetran",
-      "url": "https://github.com/JiawenZhu/ledgerflow-fivetran",
-      "description": "Fivetran revenue pipeline risk agent for the Google Cloud Rapid Agent Hackathon",
-      "homepage": "https://ledgerflow-fivetran-2026.web.app",
-      "language": "JavaScript",
-      "languageColor": "#f1e05a",
-      "pushedAt": "2026-05-26T04:04:53Z",
-      "stars": 1,
-      "topics": [
-        "fivetran",
-        "google-cloud",
-        "hackathon"
-      ]
     }
   ],
   "contributions": {
-    "total": 1109,
-    "currentStreak": 1,
+    "total": 1112,
+    "currentStreak": 2,
     "longestStreak": 9,
     "busiest": {
       "date": "2026-08-22",
@@ -1732,6 +1728,10 @@
         },
         {
           "date": "2026-10-09",
+          "count": 3
+        },
+        {
+          "date": "2026-10-10",
           "count": 0
         }
       ]
