@@ -5,22 +5,18 @@
     "url": "https://github.com/JiawenZhu/Space-Voyage",
     "description": "Space Voyage",
     "homepage": null,
-    "language": "HTML",
-    "languageColor": "#e34c26",
-    "pushedAt": "2026-10-09T21:07:07Z",
+    "language": "JavaScript",
+    "languageColor": "#f1e05a",
+    "pushedAt": "2026-10-12T16:12:56Z",
     "stars": 0,
     "topics": [],
     "commit": {
-      "message": "feat: initialize Planet Jumping project structure",
-      "sha": "f311d90",
-      "url": "https://github.com/JiawenZhu/Space-Voyage/commit/f311d90683d727240e93e06de5cbf65cce5f6954",
-      "date": "2026-10-09T21:07:06Z"
+      "message": "feat(nav): immediately animate city and continent selection upon clic…",
+      "sha": "82a0fe9",
+      "url": "https://github.com/JiawenZhu/Space-Voyage/commit/82a0fe95cf88e2fa49b032e5fb4c686f8e59bcf1",
+      "date": "2026-10-12T16:12:52Z"
     },
     "activity": [
-      {
-        "date": "2026-09-28",
-        "count": 0
-      },
       {
         "date": "2026-09-29",
         "count": 0
@@ -63,19 +59,34 @@
       },
       {
         "date": "2026-10-09",
-        "count": 2
+        "count": 3
       },
       {
         "date": "2026-10-10",
-        "count": 0
+        "count": 7
       },
       {
         "date": "2026-10-11",
         "count": 0
+      },
+      {
+        "date": "2026-10-12",
+        "count": 4
       }
     ]
   },
   "recent": [
+    {
+      "name": "3D-Craft",
+      "url": "https://github.com/JiawenZhu/3D-Craft",
+      "description": "Local-first Rodin-style 3D generation workspace — Hunyuan3D-2.1, TRELLIS.2 and Rodin via fal.ai",
+      "homepage": null,
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "pushedAt": "2026-10-11T22:00:34Z",
+      "stars": 1,
+      "topics": []
+    },
     {
       "name": "personal-website",
       "url": "https://github.com/JiawenZhu/personal-website",
@@ -85,17 +96,6 @@
       "languageColor": "#3178c6",
       "pushedAt": "2026-10-02T19:23:03Z",
       "stars": 0,
-      "topics": []
-    },
-    {
-      "name": "3D-Craft",
-      "url": "https://github.com/JiawenZhu/3D-Craft",
-      "description": "Local-first Rodin-style 3D generation workspace — Hunyuan3D-2.1, TRELLIS.2 and Rodin via fal.ai",
-      "homepage": null,
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "pushedAt": "2026-10-02T02:16:11Z",
-      "stars": 1,
       "topics": []
     },
     {
@@ -137,8 +137,8 @@
     }
   ],
   "contributions": {
-    "total": 1112,
-    "currentStreak": 0,
+    "total": 1126,
+    "currentStreak": 5,
     "longestStreak": 9,
     "busiest": {
       "date": "2026-08-22",
@@ -1698,17 +1698,21 @@
         },
         {
           "date": "2026-10-09",
-          "count": 3
+          "count": 4
         },
         {
           "date": "2026-10-10",
-          "count": 0
+          "count": 7
         }
       ],
       [
         {
           "date": "2026-10-11",
-          "count": 0
+          "count": 3
+        },
+        {
+          "date": "2026-10-12",
+          "count": 4
         }
       ]
     ]
