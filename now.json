@@ -18,10 +18,6 @@
     },
     "activity": [
       {
-        "date": "2026-10-02",
-        "count": 0
-      },
-      {
         "date": "2026-10-03",
         "count": 0
       },
@@ -72,21 +68,14 @@
       {
         "date": "2026-10-15",
         "count": 0
+      },
+      {
+        "date": "2026-10-16",
+        "count": 0
       }
     ]
   },
   "recent": [
-    {
-      "name": "3D-Craft",
-      "url": "https://github.com/JiawenZhu/3D-Craft",
-      "description": "Local-first Rodin-style 3D generation workspace — Hunyuan3D-2.1, TRELLIS.2 and Rodin via fal.ai",
-      "homepage": null,
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "pushedAt": "2026-10-11T22:00:34Z",
-      "stars": 1,
-      "topics": []
-    },
     {
       "name": "personal-website",
       "url": "https://github.com/JiawenZhu/personal-website",
@@ -133,6 +122,21 @@
         "google-cloud",
         "hackathon",
         "mongodb"
+      ]
+    },
+    {
+      "name": "ledgerflow-fivetran",
+      "url": "https://github.com/JiawenZhu/ledgerflow-fivetran",
+      "description": "Fivetran revenue pipeline risk agent for the Google Cloud Rapid Agent Hackathon",
+      "homepage": "https://ledgerflow-fivetran-2026.web.app",
+      "language": "JavaScript",
+      "languageColor": "#f1e05a",
+      "pushedAt": "2026-05-26T04:04:53Z",
+      "stars": 1,
+      "topics": [
+        "fivetran",
+        "google-cloud",
+        "hackathon"
       ]
     }
   ],
@@ -1724,6 +1728,10 @@
         },
         {
           "date": "2026-10-15",
+          "count": 0
+        },
+        {
+          "date": "2026-10-16",
           "count": 0
         }
       ]
