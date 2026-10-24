@@ -12,7 +12,7 @@ I'm a full-stack engineer who turns complex data into clean, trustworthy product
 ## 🧱 What I'm building right now
 
 <!-- now-building:start -->
-<a href="https://github.com/JiawenZhu/Space-Voyage"><img src="assets/now-building.svg?v=780f90d7" alt="Building right now: Space-Voyage. Space Voyage" width="100%"></a>
+<a href="https://github.com/JiawenZhu/Space-Voyage"><img src="assets/now-building.svg?v=f6895f1f" alt="Building right now: Space-Voyage. Space Voyage" width="100%"></a>
 
 <details>
 <summary><b>What else I've touched lately</b></summary>
