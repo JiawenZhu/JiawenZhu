@@ -51,11 +51,22 @@ I'm a full-stack engineer who turns complex data into clean, trustworthy product
     <td colspan="2" valign="top">
       <a href="https://bunny-escape-2026.web.app"><img src="https://raw.githubusercontent.com/JiawenZhu/personal-website/master/public/project-screenshots/bunny-escape.webp" alt="Bunny Escape: Bubu and Doudou sneaking through a moonlit forest with a lantern"></a>
       <h3><a href="https://bunny-escape-2026.web.app">Bunny Escape</a> 🐰</h3>
-      A rescue-and-run game for iPhone and iPad. Sneak through 8 monster houses, free your partner from a cage, then outrun the monster down winding roads full of boulders and lava rivers. Pure Three.js with characters made in 3D Craft and a soundtrack synthesized live with Web Audio.
+      A rescue-and-run game for iPhone and iPad, now on the App Store. Sneak through 8 monster houses, free your partner from a cage, then outrun the monster down winding roads full of boulders and lava rivers. Pure Three.js with characters made in 3D Craft and a soundtrack synthesized live with Web Audio.
       <br><br>
       <a href="https://bunny-escape-2026.web.app"><img src="https://img.shields.io/badge/Game_site-f5b82e?style=for-the-badge&logo=googlechrome&logoColor=13203a" alt="Visit the game site"></a>
-      <img src="https://img.shields.io/badge/App_Store-coming_soon-4a5a78?style=for-the-badge&logo=appstore&logoColor=white" alt="Coming soon on the App Store">
+      <a href="https://apps.apple.com/us/app/bunny-escape-forest-rescue/id6817218343"><img src="https://img.shields.io/badge/App_Store-13203a?style=for-the-badge&logo=appstore&logoColor=white" alt="Download on the App Store"></a>
       <br><br><code>Three.js</code> <code>Capacitor</code> <code>Web Audio</code> <code>iOS</code>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <a href="https://little-fridge-2026.web.app"><img src="https://raw.githubusercontent.com/JiawenZhu/personal-website/master/public/project-screenshots/little-fridge.webp" alt="Little Fridge on iPhone: a stainless fridge, the open fridge with labelled food, and a list of items with days left"></a>
+      <h3><a href="https://little-fridge-2026.web.app">Little Fridge</a> 🧊</h3>
+      A visual fridge and freezer for iPhone. Swing open the doors to see what you have, get reminded before food expires, and track what groceries cost each month. Share one fridge with your family.
+      <br><br>
+      <a href="https://little-fridge-2026.web.app"><img src="https://img.shields.io/badge/App_site-2ea65a?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit the app site"></a>
+      <img src="https://img.shields.io/badge/App_Store-coming_soon-4a5a78?style=for-the-badge&logo=appstore&logoColor=white" alt="Coming soon on the App Store">
+      <br><br><code>SwiftUI</code> <code>Vision OCR</code> <code>Apple Pay</code> <code>Firebase</code>
     </td>
   </tr>
   <tr>
