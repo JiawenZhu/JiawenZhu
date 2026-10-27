@@ -12,16 +12,16 @@ I'm a full-stack engineer who turns complex data into clean, trustworthy product
 ## 🧱 What I'm building right now
 
 <!-- now-building:start -->
-<a href="https://github.com/JiawenZhu/Space-Voyage"><img src="assets/now-building.svg?v=ea8293d0" alt="Building right now: Space-Voyage. Space Voyage" width="100%"></a>
+<a href="https://github.com/JiawenZhu/little-fridge-split"><img src="assets/now-building.svg?v=1492165d" alt="Building right now: little-fridge-split. Split a grocery bill and get paid back with Venmo or PayPal. Little Fridge × PayPal AI Hackathon." width="100%"></a>
 
 <details>
 <summary><b>What else I've touched lately</b></summary>
 
+- **[Space-Voyage](https://github.com/JiawenZhu/Space-Voyage)** – Space Voyage <sub>(Oct 12, 2026)</sub>
 - **[personal-website](https://github.com/JiawenZhu/personal-website)** – Personal portfolio website <sub>(Oct 2, 2026)</sub>
 - **[restage](https://github.com/JiawenZhu/restage)** – An agent that edits images toward a stated outcome — UGC first, room staging second. Desi… <sub>(Aug 30, 2026)</sub>
 - **[careervivid-ios](https://github.com/JiawenZhu/careervivid-ios)** – iOS app for Vivid (mock interviews, skill tree, and real company questions). <sub>(Jul 21, 2026)</sub>
 - **[apex-fan-mongodb](https://github.com/JiawenZhu/apex-fan-mongodb)** – World Cup 2026 fan concierge for the Google Cloud Rapid Agent Hackathon MongoDB track <sub>(Jun 1, 2026)</sub>
-- **[ledgerflow-fivetran](https://github.com/JiawenZhu/ledgerflow-fivetran)** – Fivetran revenue pipeline risk agent for the Google Cloud Rapid Agent Hackathon <sub>(May 25, 2026)</sub>
 
 </details>
 <!-- now-building:end -->

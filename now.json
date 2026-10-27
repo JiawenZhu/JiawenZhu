@@ -1,26 +1,22 @@
 {
   "user": "JiawenZhu",
   "latest": {
-    "name": "Space-Voyage",
-    "url": "https://github.com/JiawenZhu/Space-Voyage",
-    "description": "Space Voyage",
+    "name": "little-fridge-split",
+    "url": "https://github.com/JiawenZhu/little-fridge-split",
+    "description": "Split a grocery bill and get paid back with Venmo or PayPal. Little Fridge × PayPal AI Hackathon.",
     "homepage": null,
     "language": "JavaScript",
     "languageColor": "#f1e05a",
-    "pushedAt": "2026-10-12T16:12:56Z",
+    "pushedAt": "2026-10-27T06:05:39Z",
     "stars": 0,
     "topics": [],
     "commit": {
-      "message": "feat(nav): immediately animate city and continent selection upon clic…",
-      "sha": "82a0fe9",
-      "url": "https://github.com/JiawenZhu/Space-Voyage/commit/82a0fe95cf88e2fa49b032e5fb4c686f8e59bcf1",
-      "date": "2026-10-12T16:12:52Z"
+      "message": "Full-page PayPal return flow and friendly handling of declined payments",
+      "sha": "7ebc1a5",
+      "url": "https://github.com/JiawenZhu/little-fridge-split/commit/7ebc1a5750f84f9e98d1de987d57defb80627b5a",
+      "date": "2026-10-27T06:05:38Z"
     },
     "activity": [
-      {
-        "date": "2026-10-13",
-        "count": 0
-      },
       {
         "date": "2026-10-14",
         "count": 0
@@ -72,10 +68,25 @@
       {
         "date": "2026-10-26",
         "count": 0
+      },
+      {
+        "date": "2026-10-27",
+        "count": 5
       }
     ]
   },
   "recent": [
+    {
+      "name": "Space-Voyage",
+      "url": "https://github.com/JiawenZhu/Space-Voyage",
+      "description": "Space Voyage",
+      "homepage": null,
+      "language": "JavaScript",
+      "languageColor": "#f1e05a",
+      "pushedAt": "2026-10-12T16:12:56Z",
+      "stars": 0,
+      "topics": []
+    },
     {
       "name": "personal-website",
       "url": "https://github.com/JiawenZhu/personal-website",
@@ -123,25 +134,10 @@
         "hackathon",
         "mongodb"
       ]
-    },
-    {
-      "name": "ledgerflow-fivetran",
-      "url": "https://github.com/JiawenZhu/ledgerflow-fivetran",
-      "description": "Fivetran revenue pipeline risk agent for the Google Cloud Rapid Agent Hackathon",
-      "homepage": "https://ledgerflow-fivetran-2026.web.app",
-      "language": "JavaScript",
-      "languageColor": "#f1e05a",
-      "pushedAt": "2026-05-26T04:04:53Z",
-      "stars": 1,
-      "topics": [
-        "fivetran",
-        "google-cloud",
-        "hackathon"
-      ]
     }
   ],
   "contributions": {
-    "total": 1128,
+    "total": 1134,
     "currentStreak": 1,
     "longestStreak": 9,
     "busiest": {
@@ -1717,6 +1713,10 @@
         {
           "date": "2026-10-26",
           "count": 0
+        },
+        {
+          "date": "2026-10-27",
+          "count": 6
         }
       ]
     ]
