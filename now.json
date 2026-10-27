@@ -1,20 +1,20 @@
 {
   "user": "JiawenZhu",
   "latest": {
-    "name": "little-fridge-split",
-    "url": "https://github.com/JiawenZhu/little-fridge-split",
-    "description": "Split a grocery bill and get paid back with Venmo or PayPal. Little Fridge × PayPal AI Hackathon.",
-    "homepage": null,
-    "language": "JavaScript",
-    "languageColor": "#f1e05a",
-    "pushedAt": "2026-10-27T06:05:39Z",
+    "name": "personal-website",
+    "url": "https://github.com/JiawenZhu/personal-website",
+    "description": "Personal portfolio website",
+    "homepage": "https://jiawenzhu.github.io/personal-website/",
+    "language": "TypeScript",
+    "languageColor": "#3178c6",
+    "pushedAt": "2026-10-27T19:11:29Z",
     "stars": 0,
     "topics": [],
     "commit": {
-      "message": "Full-page PayPal return flow and friendly handling of declined payments",
-      "sha": "7ebc1a5",
-      "url": "https://github.com/JiawenZhu/little-fridge-split/commit/7ebc1a5750f84f9e98d1de987d57defb80627b5a",
-      "date": "2026-10-27T06:05:38Z"
+      "message": "Add Little Fridge and link Bunny Escape on the App Store",
+      "sha": "e33e110",
+      "url": "https://github.com/JiawenZhu/personal-website/commit/e33e110e808d98b3e452e54f0d37b5f3d0ca8273",
+      "date": "2026-10-27T19:11:26Z"
     },
     "activity": [
       {
@@ -71,11 +71,22 @@
       },
       {
         "date": "2026-10-27",
-        "count": 5
+        "count": 1
       }
     ]
   },
   "recent": [
+    {
+      "name": "little-fridge-split",
+      "url": "https://github.com/JiawenZhu/little-fridge-split",
+      "description": "Split a grocery bill and get paid back with Venmo or PayPal. Little Fridge × PayPal AI Hackathon.",
+      "homepage": null,
+      "language": "JavaScript",
+      "languageColor": "#f1e05a",
+      "pushedAt": "2026-10-27T06:05:39Z",
+      "stars": 0,
+      "topics": []
+    },
     {
       "name": "Space-Voyage",
       "url": "https://github.com/JiawenZhu/Space-Voyage",
@@ -84,17 +95,6 @@
       "language": "JavaScript",
       "languageColor": "#f1e05a",
       "pushedAt": "2026-10-12T16:12:56Z",
-      "stars": 0,
-      "topics": []
-    },
-    {
-      "name": "personal-website",
-      "url": "https://github.com/JiawenZhu/personal-website",
-      "description": "Personal portfolio website",
-      "homepage": "https://jiawenzhu.github.io/personal-website/",
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "pushedAt": "2026-10-02T19:23:03Z",
       "stars": 0,
       "topics": []
     },
