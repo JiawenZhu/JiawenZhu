@@ -12,7 +12,7 @@ I'm a full-stack engineer who turns complex data into clean, trustworthy product
 ## 🧱 What I'm building right now
 
 <!-- now-building:start -->
-<a href="https://github.com/JiawenZhu/little-fridge-split"><img src="assets/now-building.svg?v=4169c1d3" alt="Building right now: little-fridge-split. Split a grocery bill and get paid back with Venmo or PayPal. Little Fridge × PayPal AI Hackathon." width="100%"></a>
+<a href="https://github.com/JiawenZhu/little-fridge-split"><img src="assets/now-building.svg?v=fbaab653" alt="Building right now: little-fridge-split. Split a grocery bill and get paid back with Venmo or PayPal. Little Fridge × PayPal AI Hackathon." width="100%"></a>
 
 <details>
 <summary><b>What else I've touched lately</b></summary>
