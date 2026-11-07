@@ -1,26 +1,22 @@
 {
   "user": "JiawenZhu",
   "latest": {
-    "name": "little-fridge-split",
-    "url": "https://github.com/JiawenZhu/little-fridge-split",
-    "description": "Split a grocery bill and get paid back with Venmo or PayPal. Little Fridge × PayPal AI Hackathon.",
+    "name": "small-games-site",
+    "url": "https://github.com/JiawenZhu/small-games-site",
+    "description": "Small Games — the catalogue. Five TikTok mini games playable in the browser, plus Bunny Escape on the App Store.",
     "homepage": null,
     "language": "JavaScript",
     "languageColor": "#f1e05a",
-    "pushedAt": "2026-11-06T06:48:22Z",
+    "pushedAt": "2026-11-07T16:07:05Z",
     "stars": 0,
     "topics": [],
     "commit": {
-      "message": "Keep splits on a Render disk so links survive deploys",
-      "sha": "9561ec6",
-      "url": "https://github.com/JiawenZhu/little-fridge-split/commit/9561ec60716c5398f5c2cd2d43928fc78d36123a",
-      "date": "2026-11-06T06:48:21Z"
+      "message": "Small Games: the catalogue site",
+      "sha": "9ebff2f",
+      "url": "https://github.com/JiawenZhu/small-games-site/commit/9ebff2f9ea0d56b1d57498411aabf935b2ea571d",
+      "date": "2026-11-07T16:06:56Z"
     },
     "activity": [
-      {
-        "date": "2026-10-24",
-        "count": 0
-      },
       {
         "date": "2026-10-25",
         "count": 0
@@ -31,11 +27,11 @@
       },
       {
         "date": "2026-10-27",
-        "count": 8
+        "count": 0
       },
       {
         "date": "2026-10-28",
-        "count": 1
+        "count": 0
       },
       {
         "date": "2026-10-29",
@@ -47,7 +43,7 @@
       },
       {
         "date": "2026-10-31",
-        "count": 2
+        "count": 0
       },
       {
         "date": "2026-11-01",
@@ -59,7 +55,7 @@
       },
       {
         "date": "2026-11-03",
-        "count": 3
+        "count": 0
       },
       {
         "date": "2026-11-04",
@@ -71,11 +67,26 @@
       },
       {
         "date": "2026-11-06",
-        "count": 3
+        "count": 0
+      },
+      {
+        "date": "2026-11-07",
+        "count": 1
       }
     ]
   },
   "recent": [
+    {
+      "name": "little-fridge-split",
+      "url": "https://github.com/JiawenZhu/little-fridge-split",
+      "description": "Split a grocery bill and get paid back with Venmo or PayPal. Little Fridge × PayPal AI Hackathon.",
+      "homepage": null,
+      "language": "JavaScript",
+      "languageColor": "#f1e05a",
+      "pushedAt": "2026-11-06T06:48:22Z",
+      "stars": 0,
+      "topics": []
+    },
     {
       "name": "personal-website",
       "url": "https://github.com/JiawenZhu/personal-website",
@@ -119,26 +130,11 @@
       "pushedAt": "2026-07-21T22:35:23Z",
       "stars": 1,
       "topics": []
-    },
-    {
-      "name": "apex-fan-mongodb",
-      "url": "https://github.com/JiawenZhu/apex-fan-mongodb",
-      "description": "World Cup 2026 fan concierge for the Google Cloud Rapid Agent Hackathon MongoDB track",
-      "homepage": "https://apexfan-mongodb-2026.web.app",
-      "language": "JavaScript",
-      "languageColor": "#f1e05a",
-      "pushedAt": "2026-06-01T22:26:55Z",
-      "stars": 0,
-      "topics": [
-        "google-cloud",
-        "hackathon",
-        "mongodb"
-      ]
     }
   ],
   "contributions": {
-    "total": 1150,
-    "currentStreak": 1,
+    "total": 1157,
+    "currentStreak": 2,
     "longestStreak": 9,
     "busiest": {
       "date": "2026-08-22",
@@ -1728,7 +1724,11 @@
         },
         {
           "date": "2026-11-06",
-          "count": 3
+          "count": 5
+        },
+        {
+          "date": "2026-11-07",
+          "count": 5
         }
       ]
     ]
