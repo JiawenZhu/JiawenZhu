@@ -12,7 +12,7 @@ I'm a full-stack engineer who turns complex data into clean, trustworthy product
 ## 🧱 What I'm building right now
 
 <!-- now-building:start -->
-<a href="https://github.com/JiawenZhu/small-games-site"><img src="assets/now-building.svg?v=c7659644" alt="Building right now: small-games-site. Small Games — the catalogue. Five TikTok mini games playable in the browser, plus Bunny Escape on the App Store." width="100%"></a>
+<a href="https://github.com/JiawenZhu/small-games-site"><img src="assets/now-building.svg?v=74e62557" alt="Building right now: small-games-site. Small Games — the catalogue. Five TikTok mini games playable in the browser, plus Bunny Escape on the App Store." width="100%"></a>
 
 <details>
 <summary><b>What else I've touched lately</b></summary>

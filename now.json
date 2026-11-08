@@ -7,20 +7,16 @@
     "homepage": null,
     "language": "JavaScript",
     "languageColor": "#f1e05a",
-    "pushedAt": "2026-11-07T16:07:05Z",
+    "pushedAt": "2026-11-07T20:52:49Z",
     "stars": 0,
     "topics": [],
     "commit": {
-      "message": "Small Games: the catalogue site",
-      "sha": "9ebff2f",
-      "url": "https://github.com/JiawenZhu/small-games-site/commit/9ebff2f9ea0d56b1d57498411aabf935b2ea571d",
-      "date": "2026-11-07T16:06:56Z"
+      "message": "Stop tracking the Firebase deploy cache",
+      "sha": "c743143",
+      "url": "https://github.com/JiawenZhu/small-games-site/commit/c74314386b59005f0db27ea1eabe959e8450dd60",
+      "date": "2026-11-07T20:52:45Z"
     },
     "activity": [
-      {
-        "date": "2026-10-25",
-        "count": 0
-      },
       {
         "date": "2026-10-26",
         "count": 0
@@ -71,7 +67,11 @@
       },
       {
         "date": "2026-11-07",
-        "count": 1
+        "count": 4
+      },
+      {
+        "date": "2026-11-08",
+        "count": 0
       }
     ]
   },
@@ -133,7 +133,7 @@
     }
   ],
   "contributions": {
-    "total": 1157,
+    "total": 1160,
     "currentStreak": 2,
     "longestStreak": 9,
     "busiest": {
@@ -141,36 +141,6 @@
       "count": 46
     },
     "weeks": [
-      [
-        {
-          "date": "2025-11-02",
-          "count": 0
-        },
-        {
-          "date": "2025-11-03",
-          "count": 3
-        },
-        {
-          "date": "2025-11-04",
-          "count": 0
-        },
-        {
-          "date": "2025-11-05",
-          "count": 1
-        },
-        {
-          "date": "2025-11-06",
-          "count": 4
-        },
-        {
-          "date": "2025-11-07",
-          "count": 0
-        },
-        {
-          "date": "2025-11-08",
-          "count": 1
-        }
-      ],
       [
         {
           "date": "2025-11-09",
@@ -1728,7 +1698,13 @@
         },
         {
           "date": "2026-11-07",
-          "count": 5
+          "count": 8
+        }
+      ],
+      [
+        {
+          "date": "2026-11-08",
+          "count": 0
         }
       ]
     ]
