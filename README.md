@@ -12,16 +12,16 @@ I'm a full-stack engineer who turns complex data into clean, trustworthy product
 ## 🧱 What I'm building right now
 
 <!-- now-building:start -->
-<a href="https://github.com/JiawenZhu/small-games-site"><img src="assets/now-building.svg?v=74e62557" alt="Building right now: small-games-site. Small Games — the catalogue. Five TikTok mini games playable in the browser, plus Bunny Escape on the App Store." width="100%"></a>
+<a href="https://paypalaihackathon.devpost.com/"><img src="assets/now-building.svg?v=a081a1a0" alt="Building right now: little-wallet. Tactile personal finance &amp; bill-splitting iOS app putting AI behind the wheel of PayPal." width="100%"></a>
 
 <details>
 <summary><b>What else I've touched lately</b></summary>
 
-- **[little-fridge-split](https://github.com/JiawenZhu/little-fridge-split)** – Split a grocery bill and get paid back with Venmo or PayPal. Little Fridge × PayPal AI Ha… <sub>(Nov 6, 2026)</sub>
+- **[little-wallet-server](https://github.com/JiawenZhu/little-wallet-server)** – Little Wallet server: split a bill and get paid back with Venmo or PayPal. PayPal AI Hack… <sub>(Nov 9, 2026)</sub>
+- **[small-games-site](https://github.com/JiawenZhu/small-games-site)** – Small Games — the catalogue. Five TikTok mini games playable in the browser, plus Bunny E… <sub>(Nov 7, 2026)</sub>
 - **[personal-website](https://github.com/JiawenZhu/personal-website)** – Personal portfolio website <sub>(Oct 27, 2026)</sub>
 - **[Space-Voyage](https://github.com/JiawenZhu/Space-Voyage)** – Space Voyage <sub>(Oct 12, 2026)</sub>
 - **[restage](https://github.com/JiawenZhu/restage)** – An agent that edits images toward a stated outcome — UGC first, room staging second. Desi… <sub>(Aug 30, 2026)</sub>
-- **[careervivid-ios](https://github.com/JiawenZhu/careervivid-ios)** – iOS app for Vivid (mock interviews, skill tree, and real company questions). <sub>(Jul 21, 2026)</sub>
 
 </details>
 <!-- now-building:end -->
