@@ -12,7 +12,7 @@ I'm a full-stack engineer who turns complex data into clean, trustworthy product
 ## 🧱 What I'm building right now
 
 <!-- now-building:start -->
-<a href="https://paypalaihackathon.devpost.com/"><img src="assets/now-building.svg?v=5a835418" alt="Building right now: little-wallet. Tactile personal finance &amp; bill-splitting iOS app putting AI behind the wheel of PayPal." width="100%"></a>
+<a href="https://paypalaihackathon.devpost.com/"><img src="assets/now-building.svg?v=368d2176" alt="Building right now: little-wallet. Tactile personal finance &amp; bill-splitting iOS app putting AI behind the wheel of PayPal." width="100%"></a>
 
 <details>
 <summary><b>What else I've touched lately</b></summary>
