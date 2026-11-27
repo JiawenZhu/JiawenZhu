@@ -12,12 +12,12 @@ I'm a full-stack engineer who turns complex data into clean, trustworthy product
 ## 🧱 What I'm building right now
 
 <!-- now-building:start -->
-<a href="https://paypalaihackathon.devpost.com/"><img src="assets/now-building.svg?v=bbca23fc" alt="Building right now: little-wallet. Tactile personal finance &amp; bill-splitting iOS app putting AI behind the wheel of PayPal." width="100%"></a>
+<a href="https://github.com/JiawenZhu/little-wallet-server"><img src="assets/now-building.svg?v=438f5381" alt="Building right now: little-wallet-server. Little Wallet server: split a bill and get paid back with Venmo or PayPal. PayPal AI Hackathon." width="100%"></a>
 
 <details>
 <summary><b>What else I've touched lately</b></summary>
 
-- **[little-wallet-server](https://github.com/JiawenZhu/little-wallet-server)** – Little Wallet server: split a bill and get paid back with Venmo or PayPal. PayPal AI Hack… <sub>(Nov 9, 2026)</sub>
+- **[little-wallet](https://github.com/JiawenZhu/little-wallet)** – Tactile personal finance & bill-splitting iOS app putting AI behind the wheel of PayPal. <sub>(Nov 27, 2026)</sub>
 - **[small-games-site](https://github.com/JiawenZhu/small-games-site)** – Small Games — the catalogue. Five TikTok mini games playable in the browser, plus Bunny E… <sub>(Nov 7, 2026)</sub>
 - **[personal-website](https://github.com/JiawenZhu/personal-website)** – Personal portfolio website <sub>(Oct 27, 2026)</sub>
 - **[Space-Voyage](https://github.com/JiawenZhu/Space-Voyage)** – Space Voyage <sub>(Oct 12, 2026)</sub>

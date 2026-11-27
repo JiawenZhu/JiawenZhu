@@ -1,26 +1,22 @@
 {
   "user": "JiawenZhu",
   "latest": {
-    "name": "little-wallet",
-    "url": "https://github.com/JiawenZhu/little-wallet",
-    "description": "Tactile personal finance & bill-splitting iOS app putting AI behind the wheel of PayPal.",
-    "homepage": "https://paypalaihackathon.devpost.com/",
-    "language": "Swift",
-    "languageColor": "#F05138",
-    "pushedAt": "2026-11-09T08:03:09Z",
+    "name": "little-wallet-server",
+    "url": "https://github.com/JiawenZhu/little-wallet-server",
+    "description": "Little Wallet server: split a bill and get paid back with Venmo or PayPal. PayPal AI Hackathon.",
+    "homepage": null,
+    "language": "JavaScript",
+    "languageColor": "#f1e05a",
+    "pushedAt": "2026-11-27T20:51:49Z",
     "stars": 0,
     "topics": [],
     "commit": {
-      "message": "Server comments say Little Wallet",
-      "sha": "87dd4e3",
-      "url": "https://github.com/JiawenZhu/little-wallet/commit/87dd4e316aedd555674ce061d9f9de4838b485e1",
-      "date": "2026-11-09T08:03:08Z"
+      "message": "Add interactive web bill splitter with live PayPal/Venmo sandbox links",
+      "sha": "5268649",
+      "url": "https://github.com/JiawenZhu/little-wallet-server/commit/52686492131313f75716ca3f1150c4e232533194",
+      "date": "2026-11-27T20:51:47Z"
     },
     "activity": [
-      {
-        "date": "2026-11-13",
-        "count": 0
-      },
       {
         "date": "2026-11-14",
         "count": 0
@@ -72,18 +68,22 @@
       {
         "date": "2026-11-26",
         "count": 0
+      },
+      {
+        "date": "2026-11-27",
+        "count": 1
       }
     ]
   },
   "recent": [
     {
-      "name": "little-wallet-server",
-      "url": "https://github.com/JiawenZhu/little-wallet-server",
-      "description": "Little Wallet server: split a bill and get paid back with Venmo or PayPal. PayPal AI Hackathon.",
-      "homepage": null,
-      "language": "JavaScript",
-      "languageColor": "#f1e05a",
-      "pushedAt": "2026-11-09T08:03:08Z",
+      "name": "little-wallet",
+      "url": "https://github.com/JiawenZhu/little-wallet",
+      "description": "Tactile personal finance & bill-splitting iOS app putting AI behind the wheel of PayPal.",
+      "homepage": "https://paypalaihackathon.devpost.com/",
+      "language": "Swift",
+      "languageColor": "#F05138",
+      "pushedAt": "2026-11-27T20:48:36Z",
       "stars": 0,
       "topics": []
     },
@@ -133,7 +133,7 @@
     }
   ],
   "contributions": {
-    "total": 1257,
+    "total": 1264,
     "currentStreak": 1,
     "longestStreak": 9,
     "busiest": {
@@ -1652,7 +1652,7 @@
         },
         {
           "date": "2026-11-10",
-          "count": 0
+          "count": 2
         },
         {
           "date": "2026-11-11",
@@ -1721,6 +1721,10 @@
         {
           "date": "2026-11-26",
           "count": 0
+        },
+        {
+          "date": "2026-11-27",
+          "count": 5
         }
       ]
     ]
